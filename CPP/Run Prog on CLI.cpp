@@ -1,3 +1,5 @@
+//Code snippet to run a program directly on CLI
+
 g++ '-xc++' - <<eof
 #include <iostream>
 #include <string>
